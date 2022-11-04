@@ -1,0 +1,27 @@
+body{
+
+    text-align: center;
+}
+.container{
+
+    width:80vw;
+    margin: auto;
+
+}
+#input-number1{
+
+    padding: 0.5rem;
+    margin: 1rem 3rem 1rem 1.5rem;
+}
+#input-number2{
+
+    padding: 0.5rem;
+    margin: 1rem 3rem 1rem 0.5rem;
+}
+
+button{
+    width: 30%;
+    padding: 0.5rem;
+    margin: 0.5rem 3rem;
+
+}
